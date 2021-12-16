@@ -16,6 +16,7 @@ int main() {
     if (t > 170 && b> 55 && u >= 15){
          cout << "Lolos"<< endl;
     } else {
+        
     cout << "Tidak Lolos" << endl;
 }
 
